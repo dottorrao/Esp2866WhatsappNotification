@@ -7,8 +7,8 @@
 WiFiClient wifiClient;
 
 const int interval=60*60*1000;
-const char* ssid = "Ruggeri-SenesiWIFI-2.4_EXT";
-const char* password = "mamalorechia";
+const char* ssid = "<SID>";
+const char* password = "<PASSWORD>";
 String tobesend;
 
 const int trigPin = 12;
